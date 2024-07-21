@@ -1,5 +1,5 @@
 🧑‍💻 Full Stack Developer
-👋 Olá! Sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Com experiência em desenvolvimento web e móvel, trabalho tanto no front-end quanto no back-end para criar soluções completas e eficientes.
+Olá! Sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Com experiência em desenvolvimento web e móvel, trabalho tanto no front-end quanto no back-end para criar soluções completas e eficientes.
 
 🚀 Tecnologias e Ferramenta
 - Front-end: HTML, CSS, JavaScript, React, Angular.
