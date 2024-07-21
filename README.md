@@ -3,7 +3,7 @@ Olá! Sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Co
 
 🚀 Tecnologias e Ferramenta
 - Front-end: HTML, CSS, JavaScript, React, Angular.
-- ack-end: Node.js.
+- Back-end: Node.js.
 - Banco de Dados: MySQL.
 
   
